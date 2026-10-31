@@ -61,44 +61,172 @@ I am a Computer Engineering undergraduate at **K. J. Somaiya School of Engineeri
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
+<br/>
+
+### Frontend Development
+
+<table align="center">
+  <tr>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React.js" /><br/>
+      <sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.simpleicons.org/nextdotjs/white" width="36" height="36" alt="Next.js" /><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" /><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### Backend Development
+
+<table align="center">
+  <tr>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.simpleicons.org/express/white" width="36" height="36" alt="Express.js" /><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="SQL" /><br/>
+      <sub><b>SQL</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ### Languages
-![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=3B82F6)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=3B82F6)
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=3B82F6)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3B82F6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=3B82F6)
 
-### Frontend
-![React](https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=3B82F6)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=3B82F6)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=3B82F6)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=3B82F6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=3B82F6)
+<table align="center">
+  <tr>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36" alt="C" /><br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" /><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+  </tr>
+</table>
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=3B82F6)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=3B82F6)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=3B82F6)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=3B82F6)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=3B82F6)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=3B82F6)
+<br/>
 
 ### Tools & Testing
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=3B82F6)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=3B82F6)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=3B82F6)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=3B82F6)
-![Selenium](https://img.shields.io/badge/Selenium-0D1117?style=flat-square&logo=selenium&logoColor=3B82F6)
+
+<table align="center">
+  <tr>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.simpleicons.org/github/white" width="36" height="36" alt="GitHub" /><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="36" height="36" alt="Selenium" /><br/>
+      <sub><b>Selenium</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ### AI/ML, Quantum Computing & Cybersecurity
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=flat-square&logo=openai&logoColor=93C5FD)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0D1117?style=flat-square&logo=scikitlearn&logoColor=93C5FD)
-![Generative AI](https://img.shields.io/badge/Generative_AI-0D1117?style=flat-square&logo=googlegemini&logoColor=93C5FD)
-![Qiskit](https://img.shields.io/badge/Qiskit-0D1117?style=flat-square&logo=qiskit&logoColor=93C5FD)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0D1117?style=flat-square&logo=hackthebox&logoColor=93C5FD)
-![Networking](https://img.shields.io/badge/Networking-0D1117?style=flat-square&logo=cisco&logoColor=93C5FD)
+
+<table align="center">
+  <tr>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="Artificial Intelligence" /><br/>
+      <sub><b>Artificial Intelligence</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="Machine Learning" /><br/>
+      <sub><b>Machine Learning</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="36" height="36" alt="Generative AI" /><br/>
+      <sub><b>Generative AI</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.simpleicons.org/qiskit/6929C4" width="36" height="36" alt="Qiskit" /><br/>
+      <sub><b>Qiskit</b></sub>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.simpleicons.org/ibm/052FAD" width="36" height="36" alt="Quantum Computing" /><br/>
+      <sub><b>Quantum Computing</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="36" height="36" alt="Cybersecurity" /><br/>
+      <sub><b>Cybersecurity</b></sub>
+    </td>
+    <td align="center" width="115" height="85">
+      <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="36" height="36" alt="Networking" /><br/>
+      <sub><b>Networking</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
